@@ -1,2 +1,5 @@
 # Model_Predictive_Controller (MPC)
-Implemented MPC for optimal autonomous navigation of a vehicle in the CARLA simulator
+Optimally navigated an autonomous vehicle using MPC in the CARLA simulator
+
+# How to run
+
