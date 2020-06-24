@@ -8,3 +8,6 @@ Optimally navigated an autonomous vehicle using MPC in the CARLA simulator
 4. Run the mpc.py file
 
 # Please refer "MPC_carla_report.pdf" file for implementation and project details
+
+# Video link:
+https://www.youtube.com/watch?v=tBYQyAXvXEg&feature=youtu.be
